@@ -263,7 +263,7 @@ ul {
 
     .main-nav ul.main-menu {
         display: block;
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         background: #f2f2f2;
